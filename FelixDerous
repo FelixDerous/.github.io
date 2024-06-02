@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elektrische Waterpistool</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1em 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 2em 0;
+        }
+        .product {
+            background-color: white;
+            padding: 2em;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin-bottom: 2em;
+        }
+        .product h2 {
+            margin-top: 0;
+        }
+        .product p {
+            line-height: 1.6;
+        }
+        .price {
+            color: #E91E63;
+            font-size: 1.5em;
+            margin-top: 1em;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        a {
+            color: #4CAF50;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Elektrische Waterpistool</h1>
+    </header>
+    <div class="container">
+        <div class="product">
+            <h2>Over het Product</h2>
+            <p>Ontdek de ultieme zomerpret met onze elektrische waterpistolen. Beschikbaar in verschillende maten, deze waterpistolen bieden eindeloos plezier voor zowel kinderen als volwassenen. Of je nu een watergevecht in de tuin hebt of een dagje naar het strand gaat, deze waterpistolen zijn perfect voor elke gelegenheid.</p>
+            <h3>Belangrijkste Kenmerken:</h3>
+            <ul>
+                <li>Elektrisch aangedreven voor continue waterstroom</li>
+                <li>Verkrijgbaar in verschillende maten</li>
+                <li>Gemakkelijk te vullen en te gebruiken</li>
+                <li>Duurzaam ontwerp voor langdurig gebruik</li>
+                <li>Veilig voor kinderen</li>
+            </ul>
+            <p class="price">Prijs: €55</p>
+        </div>
+    </div>
+    <footer>
+        <p>Contacteer ons via e-mail: <a href="mailto:felixderous@stamina.be">felixderous@stamina.be</a></p>
+    </footer>
+</body>
+</html>
